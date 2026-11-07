@@ -338,9 +338,7 @@ It includes total requests, resolved requests, resolution rate, backlog requests
 
 ### Page 2: Complaint and Trend Analysis
 
-Insert Complaint and Trend Analysis dashboard screenshot here
-
-Suggested file: `images/page2-complaint-trend-analysis.png`
+![](page2.png)
 
 This page focuses on complaint patterns and changes in service demand over time.
 
@@ -348,9 +346,7 @@ It includes monthly complaint trends, complaint category comparisons, monthly tr
 
 ### Page 3: Resolution and Backlog Analysis
 
-Insert Resolution and Backlog Analysis dashboard screenshot here
-
-Suggested file: `images/page3-resolution-backlog-analysis.png`
+![](page3.png)
 
 This page evaluates operational efficiency and unresolved service requests.
 
@@ -358,9 +354,7 @@ It includes average versus median resolution time, resolution rates by complaint
 
 ### Page 4: Geographic Hotspot Analysis
 
-Insert Geographic Hotspot Analysis dashboard screenshot here
-
-Suggested file: `images/page4-geographic-hotspot-analysis.png`
+![](page4.png)
 
 This page identifies geographic areas with high complaint volumes.
 
@@ -370,9 +364,7 @@ A geographic map visual was not included because the available Power BI environm
 
 ### Page 5: Data Quality and Validation
 
-Insert Data Quality and Validation dashboard screenshot here
-
-Suggested file: `images/page5-data-quality-validation.png`
+![](page5.png)
 
 This page provides transparency into the reliability of the dataset.
 
