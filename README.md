@@ -330,9 +330,7 @@ The Power BI report contains five analytical pages designed to support municipal
 
 ### Page 1: Executive Overview
 
-Insert Executive Overview dashboard screenshot here
-
-Suggested file: `images/page1-executive-overview.png`
+![](page1.png)
 
 This page provides a high-level summary of infrastructure service request performance through KPI cards and visualizations.
 
